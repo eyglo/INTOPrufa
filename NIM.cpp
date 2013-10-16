@@ -1,4 +1,4 @@
-//NIM dabs október 1997
+/NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -230,3 +230,6 @@ int samtals( int* hruga )
 
 	return samtala;
 }
+// bla bla Forrit buid.
+
+
